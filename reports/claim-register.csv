@@ -1,0 +1,5 @@
+artifact_id,title,collection,insured_value,claim_state,retained_amount
+CR-104,Compass Rose,Charts,700,CLOSED,400
+CR-207,Brass Sextant,Instruments,1200,ASSESSED,950
+CR-319,Signal Lantern,Instruments,500,UNREVIEWED,0
+CR-411,Logbook Aurora,Manuscripts,900,ASSESSED,300
