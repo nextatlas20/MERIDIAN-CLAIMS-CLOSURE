@@ -1,0 +1,3 @@
+Meridian Claims Closure Policy
+Cutoff: 2137-06-30T23:59:59Z
+States transition only through ASSESS, APPROVE, and CLOSE.
